@@ -4,5 +4,10 @@ body {
      color: white;
      display: flex;
      justify-content: center;
-     height: 700px;
+     height: 700px; 
+}
+
+button{
+
+    background-color: white;
 }
