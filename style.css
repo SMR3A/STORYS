@@ -11,3 +11,14 @@ button{
     color:aquamarine;
     background-color: white;
 }
+
+.passo{
+  
+    display: none;
+
+}
+
+.passo.ativo{
+
+    display:block;
+}
